@@ -2,4 +2,4 @@
 
 情人节 🌹，给momo的情书💌
 
-forked from friend on Github
+forked from [wongjohn/for-my-love]{https://github.com/wongjohn/for-my-love}
